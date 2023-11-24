@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815455459403",
+    "project_id": "bloc-fire-photo-library",
+    "storage_bucket": "bloc-fire-photo-library.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815455459403:android:108bf887b380df566115ce",
+        "android_client_info": {
+          "package_name": "com.example.firebase_image_storage_bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt8zVg8M9v4V3Jtr0logr30telKRv4jww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
